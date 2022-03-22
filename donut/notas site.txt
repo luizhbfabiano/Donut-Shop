@@ -1,0 +1,10 @@
+- Inserir emojis ao lado dos nomes do menu
+
+- Fazer com que a página de contato realmente envie a resposta
+- Criar uma página que receba os comentários e tenha link de volta à página inicial
+
+
+https://www.nectarcafeportland.com/ menu dum café 
+
+foto café: 640 x 426
+
