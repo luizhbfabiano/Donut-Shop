@@ -256,20 +256,8 @@ div div ul li {
    }
 
 /*Confirmation page*/
-#conftext {
-   float: left;
-   width: 150px;
-   
-}
-
-#confleft {
-   float: left;
-}
-
-#confpic {
-   float: right;
-   position: relative;
-   padding-left: 500px;
+#containerconfirm {
+   width: 500px;
 }
 
 /* Beans */

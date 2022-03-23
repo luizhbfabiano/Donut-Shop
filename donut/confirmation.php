@@ -32,28 +32,26 @@
 			</header>
 		</div><!--fim do container-->
 
-		<div class="container">
+		<div class="container" id="containerconfirm">
 			<div id="conftext" class="clearfix">
 
-				
 				<div id="confleft">
 					<h2>Thank you!</h2><br>
-        			<?php
+					<?php
 
-            		$username = $_POST['username'];
+					$username = $_POST['username'];
+			
+					echo "<h3>$username, we appreciate that you took some time to write to us.</h3><br>";
+				
+					echo "<p>Here at The Donut Whole we are always eager to hear from you </p><br>";
 		
-        			echo "<h3>$username, we appreciate that you took some time to write to us!</h3><br>";
-            
-    		    	echo "<p>Here at The Donut Whole we are always eager to hear from you </p><br>";
-	
-        			?>
+					?>
 
 					<a href="index.html">Return to main page</a>
-				</div> <!-- fim do confirmation left -->
-		
+				</div>		
 			</div><!-- fim confirmation text -->
 		
-				<br>
+			<br>
 			
 
 		</div><!-- fim do container -->
